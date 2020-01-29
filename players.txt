@@ -1,0 +1,65 @@
+2019
+21
+green, emily
+2003
+paid
+jackelope, bob
+2003
+not paid
+z, billie
+2004
+paid
+zz, billie
+2004
+not paid
+zzz, billie
+2005
+paid
+zzzz, billie
+2005
+not paid
+zzzzz, billie
+2006
+paid
+zzzzzz, billie
+2006
+not paid
+zzzzzzz, billie
+2007
+paid
+zzzzzzzz, billie
+2007
+not paid
+a, billie
+2008
+paid
+aa, billie
+2008
+not paid
+b, billie
+2009
+paid
+bb, billie
+2009
+not paid
+c, billie
+2010
+paid
+cc, billie
+2010
+not paid
+d, billie
+2012
+paid
+dd, billie
+2012
+not paid
+e, billie
+2014
+paid
+ee, billie
+2014
+not paid
+f, bill
+2015
+paid
